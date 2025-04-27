@@ -13,6 +13,13 @@ PassForge is a modern, responsive password generator built with React and styled
 - **Responsive Design**: Works on all device sizes
 - **Modern UI**: Clean, intuitive interface with smooth transitions
 
+## 🖼️ Screenshots
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="Images/Screenshot.png" alt="PassGen Screenshot" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 400px;">
+</div>
+
+
 ## 🚀 Installation
 
 1. Clone the repository:
