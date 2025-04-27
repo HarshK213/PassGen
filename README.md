@@ -1,12 +1,57 @@
-# React + Vite
+# PassForge - Modern Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+PassForge is a modern, responsive password generator built with React and styled with Tailwind CSS. It allows users to create secure, customizable passwords with various character options and features an elegant dark/light theme toggle.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Customizable Password Generation**: Adjust length and character types
+- **Dark/Light Theme**: Automatic system preference detection with manual toggle
+- **Password Strength Indicator**: Visual feedback on password security
+- **Copy to Clipboard**: One-click copying with toast notification
+- **Responsive Design**: Works on all device sizes
+- **Modern UI**: Clean, intuitive interface with smooth transitions
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/passforge.git
+cd passforge
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+## 💻 Usage
+
+1. Adjust the password length using the slider or +/- buttons
+2. Select character options (uppercase, numbers, special characters)
+3. Click the copy button to copy the password to clipboard
+4. Toggle between light and dark themes using the theme button
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## 🙏 Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Lucide Icons](https://lucide.dev/)
+- [React Hot Toast](https://react-hot-toast.com/)
+
+---
+
+Made with ❤️ by Harsh K
